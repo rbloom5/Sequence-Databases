@@ -7,4 +7,4 @@ def MakeDB(database):
 	os.system(databaseString)
 
 
-MakeDB("databases/uniprot_sprot.fasta")
+MakeDB("/Users/Ryan/PythonProjects/Databases/uniprot_sprot.fasta")
