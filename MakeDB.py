@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import os
-
+#look up syntax and methods in os
 def MakeDB(FILE):
 	#Makes blast compatible database from a file of protein sequences.  
 	#Will make a database with the same name in the same folder (can make this more flexible in later versions)
