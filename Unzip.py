@@ -18,3 +18,4 @@ def Unzip(database, directory = "~/sprot/", outfile = None):
 
 Unzip('databases/uniprot_sprot.fasta.gz')
 #add stuff about file names and locations (os.filename...)
+#add here
